@@ -1,0 +1,47 @@
+.Movie{
+    background-color:white;
+    display:flex;
+    flex-wrap:wrap;
+    height:550px;
+    padding:0 25px;
+    box-shadow: 0 8px 38px rgba(133, 133, 133, 0.3), 0 5px 12px rgba(133, 133, 133, 0.22);
+}
+
+.Movie_Section1{
+    width:180px;
+    margin-bottom: 30px;
+}
+
+.Movie_Section2{
+    width: 200px;
+    margin-bottom: 140px;
+}
+
+.Movie h1{
+    font-size: 22px;
+    margin-bottom: 20px;    
+}
+
+.Movie .Movie_Year{ 
+    margin-bottom: 10px;
+    color:#B4B5BD;
+}
+
+.Movie .Movie_Genres{
+    display:flex;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+}
+
+.Movie_Genres .Movie_Genre{
+    margin-right: 10px;
+    color:#B4B5BD;
+}
+
+.Movie .Movie_Poster{
+    max-width: 100%;
+    position: relative;
+    top:-20px;
+    right:-7px;
+    box-shadow: -10px 19px 38px rgba(83, 83, 83, 0.3), 10px 15px 12px rgba(80, 80, 80, 0.22);
+}
