@@ -35,7 +35,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "http://JoonghyunChoi.github.io/movie_app",
+  "homepage": "https://JoonghyunChoi.github.io/movie_app",
   "devDependencies": {
     "gh-pages":"^1.0.0"
   }
